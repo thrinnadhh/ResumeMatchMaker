@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# Run and deploy RESUME MATCH MAKER
 
 This contains everything you need to run your app locally.
 
