@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Matcher",
+  "description": "An intelligent web application that matches resumes to job descriptions using traditional and advanced AI-powered methods. Upload documents, see detailed matching scores, and download results.",
+  "requestFramePermissions": []
+}
